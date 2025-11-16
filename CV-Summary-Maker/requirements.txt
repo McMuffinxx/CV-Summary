@@ -1,0 +1,6 @@
+streamlit>=1.37
+python-docx
+pymupdf
+pdfminer.six
+google-generativeai
+openai
